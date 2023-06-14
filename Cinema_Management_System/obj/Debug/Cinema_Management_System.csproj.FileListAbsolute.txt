@@ -1,0 +1,147 @@
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
+C:\Users\future\source\repos\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+C:\Users\future\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Shared.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\stdole.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\books\science\3rd\6sem\swe\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form3.resources
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\bin\Debug\stdole.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form3.resources
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\stdole.dll
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form3.resources
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form4.resources
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
+C:\Users\bassa\Downloads\Cinema_Management_System\Cinema_Management_System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Dozer\Desktop\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form4.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe.config
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.exe
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\Cinema_Management_System.pdb
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Shared.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\Oracle.DataAccess.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\bin\Debug\stdole.dll
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.AssemblyReference.cache
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form1.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form2.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form3.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Form4.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.Properties.Resources.resources
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.GenerateResource.cache
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CoreCompileInputs.cache
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.csproj.CopyComplete
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.exe
+D:\6th Term\Cinema_Management_System\Cinema_Management_System\obj\Debug\Cinema_Management_System.pdb
